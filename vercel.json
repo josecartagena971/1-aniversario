@@ -1,0 +1,7 @@
+{
+  "framework": "vite",
+  "installCommand": "rm -rf node_modules && npm ci",
+  "buildCommand": "node ./node_modules/vite/bin/vite.js build",
+  "outputDirectory": "dist"
+}
+
